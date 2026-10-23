@@ -1,11 +1,5 @@
 # 🎧 Spotify Dashboard | Power BI
 
-!\[Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi\&logoColor=black)
-!\[DAX](https://img.shields.io/badge/DAX-Measures-0078D4)
-!\[Power Query](https://img.shields.io/badge/Power%20Query-ETL-217346)
-!\[Domain](https://img.shields.io/badge/Domain-Music%20Streaming-1DB954?logo=spotify\&logoColor=white)
-!\[Tracks](https://img.shields.io/badge/Tracks%20Analyzed-953-1DB954)
-
 An interactive, single-page Power BI dashboard that turns Spotify's top streamed songs into clear, explorable insights: which tracks and artists lead, how stream counts compare, how releases trend over time, and what the audio profile of each artist looks like.
 
 !\[Dashboard Preview](assets/dashboard-preview.png)
@@ -26,7 +20,6 @@ An interactive, single-page Power BI dashboard that turns Spotify's top streamed
 * [Business Questions Answered](#-business-questions-answered)
 * [Project Structure](#-project-structure)
 * [Future Enhancements](#-future-enhancements)
-* [Author](#-author)
 
 \---
 
